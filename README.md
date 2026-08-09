@@ -1,15 +1,23 @@
-# Reanálise de Notas Fiscais — Atualizações
+# Reanálise de Notas Fiscais
 
-Canal público oficial para baixar e atualizar o aplicativo **Reanálise de Notas Fiscais**.
+Aplicativo para Windows voltado ao acompanhamento de notas fiscais que precisam de reanálise e classificação por NCM.
 
-## Instalação e atualização
+## Download
 
-Abra a seção [Releases](https://github.com/0xlnt/reanalisede-notas-fiscais-updates/releases/latest) e baixe `ReanaliseDeNotasFiscais-Setup.exe`.
+Acesse a página de [Releases](https://github.com/0xlnt/reanalise-de-notas-fiscais/releases/latest) e baixe:
 
-O mesmo instalador serve para a primeira instalação e para atualizar uma instalação existente. As notas e configurações permanecem na pasta de dados do usuário e não são removidas durante a atualização.
+```text
+ReanaliseDeNotasFiscais-Setup.exe
+```
 
-A partir da versão 1.0.4, o aplicativo verifica este canal automaticamente. Também é possível usar **Ajuda → Verificar atualizações…**.
+O mesmo instalador pode ser usado tanto na primeira instalação quanto para atualizar uma versão existente.
 
-## Conteúdo deste repositório
+## Atualizações
 
-Este repositório distribui somente instaladores e pacotes de atualização. O código-fonte é mantido separadamente em um repositório privado.
+O aplicativo consulta este repositório para verificar se existe uma versão mais recente. A verificação também pode ser iniciada pelo menu **Ajuda → Verificar atualizações…**.
+
+As notas, classificações e configurações ficam armazenadas localmente no computador e são preservadas durante a atualização.
+
+## Sobre este repositório
+
+Este repositório público contém apenas instaladores e os arquivos necessários para atualização. O código-fonte do aplicativo permanece em um repositório privado.
